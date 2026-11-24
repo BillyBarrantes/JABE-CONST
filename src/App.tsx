@@ -1,45 +1,5 @@
-import React, { useEffect, useMemo, useRef, useState } from 'react';
-import {
-  Calculator,
-  ArrowRight,
-  Phone,
-  Mail,
-  MapPin,
-  Copy,
-  Settings,
-  X,
-  RotateCcw,
-  Check,
-  ChevronRight,
-  Home,
-  Ruler,
-  Leaf,
-  Clock3,
-  ShieldCheck,
-  Sparkles,
-  Hammer,
-  Layers,
-  User,
-  Lock,
-  LogOut,
-  FolderPlus,
-  FileText,
-  ImagePlus,
-  Trash2,
-  Pencil,
-  Download,
-  Eye,
-  FolderOpen,
-  Plus,
-  Camera,
-  ClipboardList,
-  ClipboardCheck,
-  Users,
-  HardHat,
-  CheckSquare,
-  Square,
-  Filter,
-} from 'lucide-react';
+import { useEffect, useMemo, useRef, useState } from 'react';
+import { ArrowRight, Phone, Mail, MapPin, Copy, X, RotateCcw, ChevronRight, Home, Clock3, User, Lock, LogOut, FolderPlus, FileText, ImagePlus, Download, FolderOpen, Plus, Camera, ClipboardList, ClipboardCheck, CheckSquare, Square, Filter } from 'lucide-react';
 const viviendaImg = 'https://unsplash.com';
 const aseoImg = 'https://unsplash.com';
 const cocinaImg = 'https://unsplash.com';
